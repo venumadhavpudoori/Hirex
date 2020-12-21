@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Hirex/static/css/main.37387317.chunk.css",
+    "main.js": "/Hirex/static/js/main.de94e520.chunk.js",
+    "main.js.map": "/Hirex/static/js/main.de94e520.chunk.js.map",
+    "runtime-main.js": "/Hirex/static/js/runtime-main.3bd034d1.js",
+    "runtime-main.js.map": "/Hirex/static/js/runtime-main.3bd034d1.js.map",
+    "static/css/2.95f25948.chunk.css": "/Hirex/static/css/2.95f25948.chunk.css",
+    "static/js/2.a87e1264.chunk.js": "/Hirex/static/js/2.a87e1264.chunk.js",
+    "static/js/2.a87e1264.chunk.js.map": "/Hirex/static/js/2.a87e1264.chunk.js.map",
+    "static/js/3.e196afbe.chunk.js": "/Hirex/static/js/3.e196afbe.chunk.js",
+    "static/js/3.e196afbe.chunk.js.map": "/Hirex/static/js/3.e196afbe.chunk.js.map",
+    "index.html": "/Hirex/index.html",
+    "static/css/2.95f25948.chunk.css.map": "/Hirex/static/css/2.95f25948.chunk.css.map",
+    "static/css/main.37387317.chunk.css.map": "/Hirex/static/css/main.37387317.chunk.css.map",
+    "static/js/2.a87e1264.chunk.js.LICENSE.txt": "/Hirex/static/js/2.a87e1264.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bd034d1.js",
+    "static/css/2.95f25948.chunk.css",
+    "static/js/2.a87e1264.chunk.js",
+    "static/css/main.37387317.chunk.css",
+    "static/js/main.de94e520.chunk.js"
+  ]
+}
